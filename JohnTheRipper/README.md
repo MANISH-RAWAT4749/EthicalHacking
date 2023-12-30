@@ -9,17 +9,18 @@ $zip2john GradedLab1.zip
  
 Step 2:put the password hash in a text file Type the following command : 
 
+$zip2john GradedLab1.zip > hash121.txt 
+
 ![image](https://github.com/MANISH-RAWAT4749/EthicalHacking/assets/135990621/5a92c7b3-e024-4785-8bce-2ecc6cdb477b)
 
  
-$zip2john GradedLab1.zip > hash121.txt 
+
 
 
    
-Followed by: 
+Step 3 : This command above initiates John the Ripper, a proficient password cracking tool.
 $John hash.txt 
  
-The command above initiates John the Ripper, a proficient password cracking tool.
 
  ![image](https://github.com/MANISH-RAWAT4749/EthicalHacking/assets/135990621/351926cb-3a09-4f57-b0a0-f6ee1a00834f)
 
