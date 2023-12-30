@@ -18,7 +18,7 @@ $zip2john GradedLab1.zip > hash121.txt
 
 
    
-Step 3 : This command above initiates John the Ripper, a proficient password cracking tool.
+Step 3 : This command initiates John the Ripper, a proficient password cracking tool.
 $John hash.txt 
  
 
