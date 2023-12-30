@@ -2,6 +2,7 @@
 
 To get the password hash to be cracked, we need to enter the command: 
 $zip2john GradedLab1.zip 
+
   ![image](https://github.com/MANISH-RAWAT4749/EthicalHacking/assets/135990621/36b7f70d-f677-46fd-8a75-6610ee820e56)
 
  
